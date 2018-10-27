@@ -1,0 +1,13 @@
+C:\Users\serob\source\repos\MyMVCAPP\MovieTestApi\bin\Debug\netcoreapp2.1\MovieTestApi.deps.json
+C:\Users\serob\source\repos\MyMVCAPP\MovieTestApi\bin\Debug\netcoreapp2.1\MovieTestApi.runtimeconfig.json
+C:\Users\serob\source\repos\MyMVCAPP\MovieTestApi\bin\Debug\netcoreapp2.1\MovieTestApi.runtimeconfig.dev.json
+C:\Users\serob\source\repos\MyMVCAPP\MovieTestApi\bin\Debug\netcoreapp2.1\MovieTestApi.dll
+C:\Users\serob\source\repos\MyMVCAPP\MovieTestApi\bin\Debug\netcoreapp2.1\MovieTestApi.pdb
+C:\Users\serob\source\repos\MyMVCAPP\MovieTestApi\obj\Debug\netcoreapp2.1\MovieTestApi.csproj.CoreCompileInputs.cache
+C:\Users\serob\source\repos\MyMVCAPP\MovieTestApi\obj\Debug\netcoreapp2.1\MovieTestApi.RazorAssemblyInfo.cache
+C:\Users\serob\source\repos\MyMVCAPP\MovieTestApi\obj\Debug\netcoreapp2.1\MovieTestApi.RazorAssemblyInfo.cs
+C:\Users\serob\source\repos\MyMVCAPP\MovieTestApi\obj\Debug\netcoreapp2.1\MovieTestApi.AssemblyInfoInputs.cache
+C:\Users\serob\source\repos\MyMVCAPP\MovieTestApi\obj\Debug\netcoreapp2.1\MovieTestApi.AssemblyInfo.cs
+C:\Users\serob\source\repos\MyMVCAPP\MovieTestApi\obj\Debug\netcoreapp2.1\MovieTestApi.RazorTargetAssemblyInfo.cache
+C:\Users\serob\source\repos\MyMVCAPP\MovieTestApi\obj\Debug\netcoreapp2.1\MovieTestApi.dll
+C:\Users\serob\source\repos\MyMVCAPP\MovieTestApi\obj\Debug\netcoreapp2.1\MovieTestApi.pdb
